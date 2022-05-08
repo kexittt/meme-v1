@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b3e3ce5.css",
+    "main.js": "/static/js/main.5392e6d3.js",
+    "static/media/gradient.gif": "/static/media/gradient.5739f5e5eded1e0bae2b.gif",
+    "static/media/bg.gif": "/static/media/bg.333fe94f9f67fb1d1006.gif",
+    "static/media/hac.jpg": "/static/media/hac.6193189625e689383b02.jpg",
+    "static/media/stonks.jpg": "/static/media/stonks.aeec3f25b6ab8c246ba3.jpg",
+    "static/media/nezuko.jpg": "/static/media/nezuko.f95211155ce09015e37f.jpg",
+    "static/media/volf.jpg": "/static/media/volf.e439b523af3b19fe5712.jpg",
+    "static/media/naruto.jpg": "/static/media/naruto.728bb70ca4301f18985b.jpg",
+    "static/media/friman.jpg": "/static/media/friman.bd8cb6ee0c69d8c1ffcb.jpg",
+    "static/media/gaccy.jpg": "/static/media/gaccy.bde76985d581c64812bd.jpg",
+    "static/media/dog.jpg": "/static/media/dog.7ac149dff08c79593f39.jpg",
+    "static/media/rivs.jpeg": "/static/media/rivs.b5ed8939a5bab41b3b44.jpeg",
+    "static/media/programmer.jpg": "/static/media/programmer.da9f4bcf134bc23c1b13.jpg",
+    "static/media/stathem.jpg": "/static/media/stathem.49b7f9cf3c0a9c3ece0e.jpg",
+    "static/media/nobrain.jpg": "/static/media/nobrain.2c966f65858903409c26.jpg",
+    "static/media/hardy.jpg": "/static/media/hardy.a7f31db7044164d835c7.jpg",
+    "static/media/curry.jpg": "/static/media/curry.fbc3a0c03ed9c748eb91.jpg",
+    "static/media/chel.jpg": "/static/media/chel.9e68cd5ecb9717c27770.jpg",
+    "index.html": "/index.html",
+    "main.1b3e3ce5.css.map": "/static/css/main.1b3e3ce5.css.map",
+    "main.5392e6d3.js.map": "/static/js/main.5392e6d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b3e3ce5.css",
+    "static/js/main.5392e6d3.js"
+  ]
+}
